@@ -1,0 +1,15 @@
+[submodule "claudian"]
+	path = claudian
+	url = https://github.com/Tonanguyxiro/claudian.git
+[submodule "obsidian-gantt-calendar"]
+	path = obsidian-gantt-calendar
+	url = https://github.com/Tonanguyxiro/obsidian-gantt-calendar.git
+[submodule "obsidian-plugin-skills"]
+	path = obsidian-plugin-skills
+	url = https://github.com/Tonanguyxiro/obsidian-plugin-skills.git
+[submodule "taskgenius-plugin"]
+	path = taskgenius-plugin
+	url = https://github.com/Tonanguyxiro/taskgenius-plugin.git
+[submodule "timeline-for-bases"]
+	path = timeline-for-bases
+	url = https://github.com/Tonanguyxiro/timeline-for-bases.git
